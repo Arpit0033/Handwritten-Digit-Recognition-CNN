@@ -95,6 +95,8 @@ Run the project:
 ```powershell
 python notebooks/digit_recognition.py
 ```
+```powershell
+python -m streamlit run app.py
 
 ## 12. Conclusion
 The project successfully demonstrates how CNNs can learn visual patterns and classify handwritten digits. The trained model achieved 99.18% test accuracy on the MNIST dataset.
